@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c9cb5&text=Ramy%20Akin%20Saidi&fontColor=ffffff&fontSize=64&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20AI%20%26%20Data%20%C2%B7%20Mobile&descSize=22&descAlignY=60&animation=fadeIn" alt="Ramy Akin Saidi banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c9cb5&text=Ramy%20Akin%20Saidi&fontColor=ffffff&fontSize=64&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20AI%20and%20Data%20%C2%B7%20Mobile&descSize=22&descAlignY=60&animation=fadeIn" alt="Ramy Akin Saidi banner" width="100%" />
 
 <a href="https://github.com/RamyAkin">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2C9CB5&center=true&vCenter=true&width=620&lines=Software+engineer+based+in+Preston%2C+UK;Building+AI+and+data+systems;Shipping+mobile+apps+and+games;Connecting+hardware+to+the+cloud" alt="Typing animation" />
