@@ -32,6 +32,19 @@ I build things that sit between hardware, machine learning and phones. Right now
 | [**Loop Jar**](https://github.com/RamyAkin/loop-jar-app) | A marble puzzle for phones. Draw chalk loops around same-colored marbles before the jar fills. Capacitor, Android and iOS. |
 | [**WIMS**](https://github.com/RamyAkin/WIMS) | An IoT solution joining embedded control, end-to-end data flow and AI. |
 
+## Stats
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RamyAkin/RamyAkin/main/profile-summary-card-output/github_dark/3-stats.svg" />
+    <img alt="GitHub stats" src="https://raw.githubusercontent.com/RamyAkin/RamyAkin/main/profile-summary-card-output/github/3-stats.svg" width="49%" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RamyAkin/RamyAkin/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" />
+    <img alt="Most used languages" src="https://raw.githubusercontent.com/RamyAkin/RamyAkin/main/profile-summary-card-output/github/2-most-commit-language.svg" width="49%" />
+  </picture>
+</p>
+
 ## Activity
 
 <p align="center">
