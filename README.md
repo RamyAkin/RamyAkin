@@ -36,6 +36,16 @@ I'm a software engineer with a First-Class BSc from the University of Lancashire
 | [**WIMS**](https://github.com/RamyAkin/WIMS) | An IoT water-quality sensor pipeline, from ESP32 firmware through PostgreSQL to a Node.js and React dashboard. |
 | [**DETECT**](https://github.com/RamyAkin/DETECT) | A research project on deepfake and liveness detection, combining sensor challenges with a vision ensemble. |
 
+## Open source
+
+| Project | Contribution | Status |
+| --- | --- | --- |
+| [**narwhals**](https://github.com/narwhals-dev/narwhals) | [`Series.from_arrow` and `Series.__arrow_c_array__`](https://github.com/narwhals-dev/narwhals/pull/4122), across the Arrow, Polars and pandas-like backends. | Merged |
+| [**drift**](https://github.com/simolus3/drift) | [Postgres migration tooling in the docs](https://github.com/simolus3/drift/pull/3900), co-authored with the maintainer. | Landed |
+| [**narwhals**](https://github.com/narwhals-dev/narwhals) | [Docs for the `time_unit_compat` test helper](https://github.com/narwhals-dev/narwhals/pull/4158). | In review |
+| [**xarray**](https://github.com/pydata/xarray) | [User-guide fix for how MultiIndex levels print](https://github.com/pydata/xarray/pull/11888). | In review |
+| [**Flutter**](https://github.com/flutter/flutter) | [macOS xcfilelists at project setup](https://github.com/flutter/flutter/pull/195692) and [a `flutter doctor` check for libstdc++ on Linux](https://github.com/flutter/flutter/pull/195705). | In review |
+
 ## Stats
 
 <p align="center">
