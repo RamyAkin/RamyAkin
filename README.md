@@ -30,7 +30,7 @@ I'm a software engineer with a First-Class BSc from the University of Lancashire
 
 | Project | What it is |
 | --- | --- |
-| [**Loop Jar**](https://github.com/RamyAkin/loop-jar-app) | A marble puzzle for phones. Draw chalk loops around same-colored marbles before the jar fills. Capacitor, Android and iOS, with opt-in play analytics. |
+| [**narwhals**](https://github.com/narwhals-dev/narwhals) | A lightweight compatibility layer that lets one dataframe API run on pandas, Polars, PyArrow and other backends. I added `Series.from_arrow`, which is merged. |
 | [**ClimaFitAI**](https://github.com/RamyAkin/ClimaFitAI-public) | A cross-platform Flutter app that recommends outfits from live weather and personal style. [Live site](https://climafitai.web.app/). |
 | [**FlashBoard**](https://github.com/RamyAkin/FlashBoard) | Turns lecture PDFs into spaced-repetition flashcards and quizzes. Built in 48 hours at a university hackathon. First for complexity, second overall. |
 | [**WIMS**](https://github.com/RamyAkin/WIMS) | An IoT water-quality sensor pipeline, from ESP32 firmware through PostgreSQL to a Node.js and React dashboard. |
@@ -38,13 +38,12 @@ I'm a software engineer with a First-Class BSc from the University of Lancashire
 
 ## Open source
 
-| Project | Contribution | Status |
-| --- | --- | --- |
-| [**narwhals**](https://github.com/narwhals-dev/narwhals) | [`Series.from_arrow` and `Series.__arrow_c_array__`](https://github.com/narwhals-dev/narwhals/pull/4122), across the Arrow, Polars and pandas-like backends. | Merged |
-| [**drift**](https://github.com/simolus3/drift) | [Postgres migration tooling in the docs](https://github.com/simolus3/drift/pull/3900), co-authored with the maintainer. | Landed |
-| [**narwhals**](https://github.com/narwhals-dev/narwhals) | [Docs for the `time_unit_compat` test helper](https://github.com/narwhals-dev/narwhals/pull/4158). | In review |
-| [**xarray**](https://github.com/pydata/xarray) | [User-guide fix for how MultiIndex levels print](https://github.com/pydata/xarray/pull/11888). | In review |
-| [**Flutter**](https://github.com/flutter/flutter) | [macOS xcfilelists at project setup](https://github.com/flutter/flutter/pull/195692) and [a `flutter doctor` check for libstdc++ on Linux](https://github.com/flutter/flutter/pull/195705). | In review |
+| Project | Contributions |
+| --- | --- |
+| [**narwhals**](https://github.com/narwhals-dev/narwhals) | [`Series.from_arrow` and `Series.__arrow_c_array__`](https://github.com/narwhals-dev/narwhals/pull/4122) (merged). [Docs for the `time_unit_compat` test helper](https://github.com/narwhals-dev/narwhals/pull/4158) (in review). |
+| [**drift**](https://github.com/simolus3/drift) | [Postgres migration tooling in the docs](https://github.com/simolus3/drift/pull/3900), co-authored with the maintainer (landed). |
+| [**xarray**](https://github.com/pydata/xarray) | [User-guide fix for how MultiIndex levels print](https://github.com/pydata/xarray/pull/11888) (in review). |
+| [**Flutter**](https://github.com/flutter/flutter) | [macOS xcfilelists at project setup](https://github.com/flutter/flutter/pull/195692) and [a `flutter doctor` check for libstdc++ on Linux](https://github.com/flutter/flutter/pull/195705) (in review). |
 
 ## Stats
 
