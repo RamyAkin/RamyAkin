@@ -42,7 +42,7 @@ I'm a software engineer with a First-Class BSc from the University of Lancashire
 | --- | --- |
 | [**narwhals**](https://github.com/narwhals-dev/narwhals) | [`Series.from_arrow` and `Series.__arrow_c_array__`](https://github.com/narwhals-dev/narwhals/pull/4122) (merged). [Docs for the `time_unit_compat` test helper](https://github.com/narwhals-dev/narwhals/pull/4158) (in review). |
 | [**drift**](https://github.com/simolus3/drift) | [Postgres migration tooling in the docs](https://github.com/simolus3/drift/pull/3900), co-authored with the maintainer (landed). |
-| [**xarray**](https://github.com/pydata/xarray) | [User-guide fix for how MultiIndex levels print](https://github.com/pydata/xarray/pull/11888) (in review). |
+| [**xarray**](https://github.com/pydata/xarray) | [User-guide fix for how MultiIndex levels print](https://github.com/pydata/xarray/pull/11888) (merged). |
 | [**Flutter**](https://github.com/flutter/flutter) | [macOS xcfilelists at project setup](https://github.com/flutter/flutter/pull/195692) and [a `flutter doctor` check for libstdc++ on Linux](https://github.com/flutter/flutter/pull/195705) (in review). |
 
 ## Stats
